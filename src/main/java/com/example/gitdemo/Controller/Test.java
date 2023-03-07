@@ -8,5 +8,6 @@ public class Test {
         System.out.println("hello branch1");
         System.out.println("master test");
         System.out.println("branch1 test");
+        System.out.println("push test");
     }
 }
