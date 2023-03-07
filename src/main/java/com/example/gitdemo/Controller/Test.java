@@ -9,5 +9,6 @@ public class Test {
         System.out.println("master test");
         System.out.println("branch1 test");
         System.out.println("push test");
+        System.out.println("GitHub test");
     }
 }
