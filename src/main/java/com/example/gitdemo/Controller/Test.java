@@ -10,5 +10,6 @@ public class Test {
         System.out.println("branch1 test");
         System.out.println("push test");
         System.out.println("GitHub test");
+        System.out.println("Gitee test");
     }
 }
